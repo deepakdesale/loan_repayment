@@ -48,10 +48,6 @@ The final XGBoost model achieved an AUC-ROC score of 0.702, indicating a good pr
 ## Conclusion
 Interest rate, FICO score, and home ownership status were found to be significant predictors of loan repayment.
 
-## How to Use
-1. Clone the repository.
-2. Install required packages using `pip install -r requirements.txt`.
-3. Run the Jupyter notebooks to see the analysis and modeling steps.
 
 ## Requirements
 - Python 3.8+
